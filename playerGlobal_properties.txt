@@ -1,0 +1,32 @@
+name: "player"
+
+
+inventory: {
+    {"gold coins",10},
+}
+
+wearing: {
+    {"dusty cloak"},
+
+}
+
+appearance: {
+    {"sad"},
+    {"wet"},
+    {"tired"},
+    {"cowardly"}
+
+}
+
+likes: {
+   {"animals"},
+   {"hiking"},
+
+}
+
+dislikes: {
+}
+
+
+
+

@@ -1,0 +1,33 @@
+name: "Bartender"
+occupation: "Bartender"s
+
+inventory: {
+    {"gold coins",500},
+    {"cold ale",1},
+    {"rotten bread",1}
+}
+
+wearing: {
+    {"nothing"}
+}
+
+likes: {
+   {"women"},
+   {"hiking"},
+   {"Small-talk"}
+}
+
+dislikes: {
+    {"Giant Rats"},
+    {"Introverts"},
+    {"Being naked"}
+}
+
+knowledgeable_about: {
+    {"Brewing"},
+    {"Local geography"},
+    {"Local flora"}
+}
+
+
+

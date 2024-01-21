@@ -1,0 +1,28 @@
+climate: {
+    {"arid desert"}
+}
+
+flora: {
+    {"tall cacti"},
+    {"brown shrubbery"},
+    {"flowering cacti"}
+}
+
+fauna: {
+    {"tiger deer", NEUTRAL},
+    {"giant rats", HOSTILE},
+    {"The Heart of The Oasis", GOD}
+}
+
+geography: {
+    {"Flat desert"},
+    {"Eastern Mountains"},
+    {"Dried up riverbed"},
+    {"Empty wells"},
+    {"Dead Oasis"}
+}
+
+politics: {
+    {"Kingdom"}
+
+}
